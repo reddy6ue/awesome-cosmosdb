@@ -53,3 +53,6 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
 ## Courses
 ### Pluralsight
   - [Learning Azure Cosmos DB](https://www.pluralsight.com/courses/azure-cosmos-db) - by Leonard Lobel
+
+## Patterns and Architectures
+ - [Entity Framework Core](https://medium.com/@dan.cokely/entity-framework-core-with-cosmos-25caa7256326) - by Dan Cokely
