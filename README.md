@@ -49,6 +49,18 @@ A curated list of awesome CosmosDB resources, libraries, tools and applications.
   - [Azure Cosmos DB - Request Units](https://www.youtube.com/watch?v=stk5WSp5uX0)
   - [Learn about Azure Cosmos DB multi-master](https://www.youtube.com/watch?v=3qus3EqNC58)
   - [Azure Cosmos DB - Automatic Indexing](https://www.youtube.com/watch?v=uFu2D-GscG0)
+
+### Youtube (Long Videos)
+  - [Azure Cosmos DB - Advanced Tips and Tricks](https://www.youtube.com/watch?v=TzPVsZHVzfA&feature=youtu.be)
+    - Overview - [0:00](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=0s)
+    - Core SQL API (operations, things to consider when building new application) - [5:20](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=320s)
+    - Monitoring Cosmos DB usage (tips and tricks understanding storage, throughput) - [18:00](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=1080s)
+    - Building event-driven architectures on Cosmos DB Change Feed - [36:35](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=2195s)
+    - Lambda & Kappa architectures on Cosmos DB (Spark connector) - [46:15](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=2775s)
+    - Single-click deployment demo of streaming architecture on Azure - [53:30](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=3210s)
+    - Modelling time series data in Cosmos DB - [1:02:20](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=3740s)
+    - Total cost of ownership comparison - [1:04:20](https://www.youtube.com/watch?v=TzPVsZHVzfA&t=4005s)
+    - Migration to Cosmos DB - 1:06:45
   
 ## Courses
 ### Pluralsight
